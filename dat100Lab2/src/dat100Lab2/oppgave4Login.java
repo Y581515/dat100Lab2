@@ -5,6 +5,7 @@ import static javax.swing.JOptionPane.*;
 public class oppgave4Login {
 
 	public static void main(String[] args) {
+		
 		String b="Yosafe";
 		String p="passord";
 	
